@@ -1,0 +1,4 @@
+com\mycompany\contatos\generic\crud\bd\Main.class
+com\mycompany\contatos\generic\crud\bd\ContatoForm.class
+com\mycompany\contatos\generic\crud\bd\ContatoView.class
+com\mycompany\contatos\generic\crud\bd\Contato.class
